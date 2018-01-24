@@ -1,0 +1,10 @@
+import trail
+from threading import Tim
+
+order = Trail(marketPair, riskPercent)
+
+def runCode():
+    threading.Timer(5.0, runCode).start()
+
+    order.runTrail()
+    order.readOut()
